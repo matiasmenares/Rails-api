@@ -11,3 +11,10 @@
 /log/*
 !/log/.keep
 /tmp
+.DS_Store
+/tmp/*
+tmp/pids/server.pid
+public/system/voucher_files/*
+db/schema.rb
+Gemfile.lock
+db/schema.rb
